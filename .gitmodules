@@ -1,0 +1,3 @@
+[submodule "ui.frontend"]
+	path = ui.frontend
+	url = git@github.com:helm/charts.git
